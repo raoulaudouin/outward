@@ -10,7 +10,7 @@ About
 
 Outward is a display font family coming in three cuts: Block (regular), Round (italic) and Borders (bold). Outward Block was initially designed in capitals only with the intent of reducing white spaces to reach a black type color, as opposed to the ideal grey sought after by typographers. The extended set of characters and families was developped following this root.
 
-Outward is designed by Raoul Audouin and distributed by [Velvetyne Type Foundry](https://www.velvetyne.fr).
+Outward is designed by [Raoul Audouin](http://raoulaudouin.fr) and distributed by [Velvetyne Type Foundry](https://www.velvetyne.fr).
 
 ### Families
 
