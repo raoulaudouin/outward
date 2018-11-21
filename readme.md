@@ -12,7 +12,7 @@ Outward is a display font family coming in three cuts: Block (regular), Round (i
 
 Outward is designed by [Raoul Audouin](http://raoulaudouin.fr) and distributed by [Velvetyne Type Foundry](https://www.velvetyne.fr).
 
-### Families
+### Cuts
 
 ![Outward Block](documentation/readme-2.png)
 ![Outward Round](documentation/readme-3.png)
