@@ -1,2 +1,2 @@
 # Outward
-A very narrow, yet libre typeface
+A very narrow yet libre typeface
