@@ -20,7 +20,7 @@ Outward is designed by [Raoul Audouin](http://raoulaudouin.fr) and distributed b
 
 ### Kerning
 
-Outward includes a complete collection of kerning pairs intended to minimize spaces in between letters.
+Outward includes a complete collection of kerning pairs intended to minimize spaces between letters.
 
 ![Outward kerning](documentation/readme-5.png)
 
