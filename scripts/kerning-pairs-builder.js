@@ -14,7 +14,7 @@ will export
 
 */
 
-// Following characters are reference characters for kerning class of Outward typeface [http://raoulaudouin.fr/outward]
+// Following characters are the reference characters for kerning classes of Outward (http://raoulaudouin.fr/outward)
 var rightKerningLetters = "BbyÈ@}ÇẂẀķfъ’`&-?r>í(~ÝĜцЦТðtĄĶЉБŊȚțąſę‚īĹ˙./:;LQ[\_|£¤¥¦¬±·¸ßĠġĥĪĮỲYĺĻĿŀŁłŤťŧǾỳ‹Ггтђґı",
 	leftKerningLetters = "AÉÌÍagþ$4\"#=+TŢJ<ìŶ*)°Ģj1ņġЂĦţŁŧħ….|'/:;\]_£¤¥¦±·¸¿ÝíýĪīĵŉŗŤǾ›™ДЛЧдлтчъљı";
 
