@@ -1,7 +1,7 @@
 Outward
 =======
 
-A very narrow, yet libre typeface.
+A very narrow, yet libre typeface
 
 ![Outward family](documentation/readme-1.png)
 
