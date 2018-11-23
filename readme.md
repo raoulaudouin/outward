@@ -30,6 +30,11 @@ Outward supports an extended set of Latin and Cyrillic characters, covering ever
 
 ![Languages supported by Outward](documentation/readme-6.png)
 
+Specimen
+--------
+
+A specimen intended to be printed as a booklet (160 × 277 mm) is available in a [screen](specimen/outward-specimen-screen.pdf) (PDF, 72 KB) and [print](outward-specimen-print.pdf) (PDF, 569 KB) version.
+
 License
 -------
 
