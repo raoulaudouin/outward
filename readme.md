@@ -8,7 +8,7 @@ A very narrow, yet libre typeface
 About
 -----
 
-Outward is a display font family coming in three cuts: Block (regular), Round (italic) and Borders (bold). Outward Block was initially designed in capitals only with the intent of reducing white spaces to reach a black type color, as opposed to the ideal grey sought after by typographers. The extended set of characters and families was developped following this root.
+Outward is a display font family coming in three cuts: Block (regular), Round (italic) and Borders (bold). Outward Block was initially designed in capitals only with the intent of getting rid of white spaces to reach a black type color, as opposed to the ideal grey sought after by typographers. The extended set of characters and families was developped following this root.
 
 Outward is designed by [Raoul Audouin](http://raoulaudouin.fr) and distributed by [Velvetyne Type Foundry](https://www.velvetyne.fr).
 
@@ -26,7 +26,7 @@ Outward includes a complete collection of kerning pairs intended to minimize spa
 
 ### Languages Supported
 
-Outward supports an extended set of Latin and Cyrillic characters, covering every modern language using one of the two alphabets.
+Outward supports an extended set of Latin and Cyrillic characters, covering every modern languages using one of the two alphabets.
 
 ![Languages supported by Outward](documentation/readme-6.png)
 
