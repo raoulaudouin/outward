@@ -2,7 +2,7 @@
 
 KERNING PAIRS BUILDER
 
-Builds all possible kerning pairs following the characters
+Builds all possible kerning pairs combining the characters
 in arrays "rightKerningLetters" and "leftKerningLetters"
 
 	var rightKerningLetters = "ABC",
