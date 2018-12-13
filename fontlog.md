@@ -1,3 +1,9 @@
+### v2.5
+- Add VTF Monogram
+- Block V ª one point to high
+- Block й ѝ tilde one point too low
+- small adjustments on some characters
+
 ### v2.4
 - Block V 2 4 5 7 [ § Ĉ Ċ Ē Ĥ ĥ Ю б is one point too high
 - Round Ĉ Ċ Ю б Ґ ґ is one point too high
