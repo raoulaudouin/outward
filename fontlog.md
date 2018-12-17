@@ -1,4 +1,5 @@
 ### v2.5
+- refine some of the kerning spaces
 - Add VTF Monogram
 - Block V ª one point to high
 - Block й ѝ tilde one point too low
