@@ -26,7 +26,7 @@ Outward includes a complete collection of kerning pairs intended to minimize spa
 
 ### Languages Supported
 
-Outward supports an extended set of Latin and Cyrillic characters, covering every modern languages using one of the two alphabets.
+Outward supports an extended set of Latin and Cyrillic characters, covering most modern languages using one of the two alphabets.
 
 ![Languages supported by Outward](documentation/readme-6.png)
 
