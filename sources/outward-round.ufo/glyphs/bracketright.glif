@@ -1,0 +1,7 @@
+<glyph name="bracketright" format="2">
+  <advance width="158"/>
+  <unicode hex="005D"/>
+  <outline>
+    <component base="bracketleft" xScale="-0.99994" yScale="-0.99994" xOffset="235" yOffset="700"/>
+  </outline>
+</glyph>

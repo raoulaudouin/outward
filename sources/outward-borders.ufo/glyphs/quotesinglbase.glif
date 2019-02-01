@@ -1,0 +1,7 @@
+<glyph name="quotesinglbase" format="2">
+  <advance width="119"/>
+  <unicode hex="201A"/>
+  <outline>
+    <component base="quoteleft" xScale="-0.99994" yScale="-0.99994" xOffset="107" yOffset="700"/>
+  </outline>
+</glyph>

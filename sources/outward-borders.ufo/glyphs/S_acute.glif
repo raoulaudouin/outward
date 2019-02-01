@@ -1,0 +1,8 @@
+<glyph name="Sacute" format="2">
+  <advance width="158"/>
+  <unicode hex="015A"/>
+  <outline>
+    <component base="acute"/>
+    <component base="s"/>
+  </outline>
+</glyph>

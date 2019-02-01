@@ -1,0 +1,8 @@
+<glyph name="uni0450" format="2">
+  <advance width="158"/>
+  <unicode hex="0450"/>
+  <outline>
+    <component base="e"/>
+    <component base="grave"/>
+  </outline>
+</glyph>

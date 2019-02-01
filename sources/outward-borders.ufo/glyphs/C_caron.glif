@@ -1,0 +1,8 @@
+<glyph name="Ccaron" format="2">
+  <advance width="158"/>
+  <unicode hex="010C"/>
+  <outline>
+    <component base="caron"/>
+    <component base="c"/>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+<glyph name="emdash" format="2">
+  <advance width="316"/>
+  <unicode hex="2014"/>
+  <outline>
+    <contour>
+      <point x="12" y="293" type="line"/>
+      <point x="12" y="250" type="line"/>
+      <point x="292" y="250" type="line"/>
+      <point x="292" y="293" type="line"/>
+    </contour>
+    <contour>
+      <point x="304" y="238" type="line"/>
+      <point x="0" y="238" type="line"/>
+      <point x="0" y="305" type="line"/>
+      <point x="304" y="305" type="line"/>
+    </contour>
+  </outline>
+</glyph>

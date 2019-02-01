@@ -1,0 +1,17 @@
+<glyph name="ogonek" format="2">
+  <advance width="119"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="-26" y="-79" type="line" smooth="yes"/>
+      <point x="-40" y="-79"/>
+      <point x="-54" y="-60"/>
+      <point x="-51" y="-46" type="qcurve" smooth="yes"/>
+      <point x="-23" y="67" type="line"/>
+      <point x="43" y="67" type="line"/>
+      <point x="24" y="-12" type="line"/>
+      <point x="64" y="-12" type="line"/>
+      <point x="47" y="-79" type="line"/>
+    </contour>
+  </outline>
+</glyph>

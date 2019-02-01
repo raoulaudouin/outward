@@ -1,0 +1,40 @@
+<glyph name="lacute" format="2">
+  <advance width="158"/>
+  <unicode hex="013A"/>
+  <outline>
+    <contour>
+      <point x="107" y="621" type="line"/>
+      <point x="40" y="621" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="107" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="95" y="12" type="line"/>
+      <point x="52" y="12" type="line"/>
+      <point x="52" y="609" type="line"/>
+      <point x="95" y="609" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="779" type="line"/>
+      <point x="146" y="666" type="line" smooth="yes"/>
+      <point x="146" y="652"/>
+      <point x="126" y="633"/>
+      <point x="112" y="633" type="qcurve" smooth="yes"/>
+      <point x="0" y="633" type="line"/>
+      <point x="0" y="700" type="line"/>
+      <point x="79" y="700" type="line"/>
+      <point x="79" y="779" type="line"/>
+    </contour>
+    <contour>
+      <point x="12" y="688" type="line"/>
+      <point x="12" y="645" type="line"/>
+      <point x="112" y="645" type="line" smooth="yes"/>
+      <point x="121" y="645"/>
+      <point x="134" y="657"/>
+      <point x="134" y="666" type="qcurve" smooth="yes"/>
+      <point x="134" y="767" type="line"/>
+      <point x="91" y="767" type="line"/>
+      <point x="91" y="688" type="line"/>
+    </contour>
+  </outline>
+</glyph>

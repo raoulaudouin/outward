@@ -1,0 +1,17 @@
+<glyph name="logicalnot" format="2">
+  <advance width="237"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="223" y="159" type="line"/>
+      <point x="156" y="159" type="line"/>
+      <point x="175" y="238" type="line"/>
+      <point x="17" y="238" type="line"/>
+      <point x="33" y="305" type="line"/>
+      <point x="225" y="305" type="line" smooth="yes"/>
+      <point x="239" y="305"/>
+      <point x="254" y="285"/>
+      <point x="250" y="271" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

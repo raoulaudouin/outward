@@ -1,0 +1,33 @@
+<glyph name="Eogonek" format="2">
+  <advance width="158"/>
+  <unicode hex="0118"/>
+  <outline>
+    <contour>
+      <point x="146" y="-79" type="line"/>
+      <point x="73" y="-79" type="line" smooth="yes"/>
+      <point x="59" y="-79"/>
+      <point x="40" y="-59"/>
+      <point x="40" y="-45" type="qcurve" smooth="yes"/>
+      <point x="40" y="0" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="0" y="700" type="line"/>
+      <point x="146" y="700" type="line"/>
+      <point x="146" y="395" type="line"/>
+      <point x="79" y="395" type="line"/>
+      <point x="79" y="633" type="line"/>
+      <point x="67" y="633" type="line"/>
+      <point x="67" y="383" type="line"/>
+      <point x="146" y="383" type="line"/>
+      <point x="146" y="316" type="line"/>
+      <point x="67" y="316" type="line"/>
+      <point x="67" y="67" type="line"/>
+      <point x="79" y="67" type="line"/>
+      <point x="79" y="304" type="line"/>
+      <point x="146" y="304" type="line"/>
+      <point x="146" y="0" type="line"/>
+      <point x="107" y="0" type="line"/>
+      <point x="107" y="-12" type="line"/>
+      <point x="146" y="-12" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<glyph name="afii61352" format="2">
+  <advance width="396"/>
+  <unicode hex="2116"/>
+  <outline>
+    <component base="degree" xOffset="238"/>
+    <component base="hyphen" xOffset="257" yOffset="79"/>
+    <component base="N"/>
+  </outline>
+</glyph>

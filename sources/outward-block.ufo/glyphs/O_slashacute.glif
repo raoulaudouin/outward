@@ -1,0 +1,51 @@
+<glyph name="Oslashacute" format="2">
+  <advance width="238"/>
+  <unicode hex="01FE"/>
+  <outline>
+    <contour>
+      <point x="147" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="80" y="79" type="line"/>
+      <point x="34" y="79" type="line" smooth="yes"/>
+      <point x="20" y="79"/>
+      <point x="0" y="99"/>
+      <point x="0" y="113" type="qcurve" smooth="yes"/>
+      <point x="0" y="508" type="line" smooth="yes"/>
+      <point x="0" y="522"/>
+      <point x="20" y="542"/>
+      <point x="34" y="542" type="qcurve" smooth="yes"/>
+      <point x="192" y="542" type="line" smooth="yes"/>
+      <point x="206" y="542"/>
+      <point x="226" y="522"/>
+      <point x="226" y="508" type="qcurve" smooth="yes"/>
+      <point x="226" y="113" type="line" smooth="yes"/>
+      <point x="226" y="99"/>
+      <point x="206" y="79"/>
+      <point x="192" y="79" type="qcurve" smooth="yes"/>
+      <point x="147" y="79" type="line"/>
+    </contour>
+    <contour>
+      <point x="147" y="146" type="line"/>
+      <point x="159" y="146" type="line"/>
+      <point x="159" y="475" type="line"/>
+      <point x="147" y="475" type="line"/>
+    </contour>
+    <contour>
+      <point x="67" y="146" type="line"/>
+      <point x="80" y="146" type="line"/>
+      <point x="80" y="475" type="line"/>
+      <point x="67" y="475" type="line"/>
+    </contour>
+    <contour>
+      <point x="186" y="700" type="line"/>
+      <point x="186" y="587" type="line" smooth="yes"/>
+      <point x="186" y="573"/>
+      <point x="167" y="554"/>
+      <point x="153" y="554" type="qcurve" smooth="yes"/>
+      <point x="40" y="554" type="line"/>
+      <point x="40" y="621" type="line"/>
+      <point x="119" y="621" type="line"/>
+      <point x="119" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

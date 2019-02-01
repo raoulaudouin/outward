@@ -1,0 +1,52 @@
+<glyph name="Aring" format="2">
+  <advance width="158"/>
+  <unicode hex="00C5"/>
+  <outline>
+    <contour>
+      <point x="204" y="542" type="line" smooth="yes"/>
+      <point x="218" y="542"/>
+      <point x="232" y="522"/>
+      <point x="228" y="508" type="qcurve" smooth="yes"/>
+      <point x="106" y="0" type="line"/>
+      <point x="39" y="0" type="line"/>
+      <point x="96" y="237" type="line"/>
+      <point x="84" y="237" type="line"/>
+      <point x="27" y="0" type="line"/>
+      <point x="-40" y="0" type="line"/>
+      <point x="82" y="508" type="line" smooth="yes"/>
+      <point x="86" y="522"/>
+      <point x="110" y="542"/>
+      <point x="124" y="542" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="112" y="304" type="line"/>
+      <point x="153" y="475" type="line"/>
+      <point x="141" y="475" type="line"/>
+      <point x="100" y="304" type="line"/>
+    </contour>
+    <contour>
+      <point x="241" y="700" type="line" smooth="yes"/>
+      <point x="255" y="700"/>
+      <point x="270" y="680"/>
+      <point x="267" y="666" type="qcurve" smooth="yes"/>
+      <point x="248" y="587" type="line" smooth="yes"/>
+      <point x="244" y="573"/>
+      <point x="220" y="554"/>
+      <point x="206" y="554" type="qcurve" smooth="yes"/>
+      <point x="127" y="554" type="line" smooth="yes"/>
+      <point x="113" y="554"/>
+      <point x="98" y="573"/>
+      <point x="102" y="587" type="qcurve" smooth="yes"/>
+      <point x="121" y="666" type="line" smooth="yes"/>
+      <point x="124" y="680"/>
+      <point x="148" y="700"/>
+      <point x="162" y="700" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="192" y="633" type="line"/>
+      <point x="180" y="633" type="line"/>
+      <point x="177" y="621" type="line"/>
+      <point x="189" y="621" type="line"/>
+    </contour>
+  </outline>
+</glyph>

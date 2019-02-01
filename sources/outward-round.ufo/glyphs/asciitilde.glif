@@ -1,0 +1,22 @@
+<glyph name="asciitilde" format="2">
+  <advance width="198"/>
+  <unicode hex="007E"/>
+  <outline>
+    <contour>
+      <point x="162" y="344" type="line"/>
+      <point x="229" y="344" type="line"/>
+      <point x="211" y="271" type="line" smooth="yes"/>
+      <point x="207" y="257"/>
+      <point x="183" y="237"/>
+      <point x="169" y="237" type="qcurve" smooth="yes"/>
+      <point x="84" y="237" type="line"/>
+      <point x="74" y="198" type="line"/>
+      <point x="7" y="198" type="line"/>
+      <point x="25" y="271" type="line" smooth="yes"/>
+      <point x="28" y="285"/>
+      <point x="52" y="304"/>
+      <point x="66" y="304" type="qcurve" smooth="yes"/>
+      <point x="152" y="304" type="line"/>
+    </contour>
+  </outline>
+</glyph>

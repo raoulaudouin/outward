@@ -1,0 +1,8 @@
+<glyph name="uni0457" format="2">
+  <advance width="158"/>
+  <unicode hex="0457"/>
+  <outline>
+    <component base="dotlessi" xOffset="40"/>
+    <component base="dieresis"/>
+  </outline>
+</glyph>

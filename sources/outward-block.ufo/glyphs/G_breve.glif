@@ -1,0 +1,47 @@
+<glyph name="Gbreve" format="2">
+  <advance width="198"/>
+  <unicode hex="011E"/>
+  <outline>
+    <contour>
+      <point x="146" y="0" type="line"/>
+      <point x="33" y="0" type="line" smooth="yes"/>
+      <point x="19" y="0"/>
+      <point x="0" y="19"/>
+      <point x="0" y="33" type="qcurve" smooth="yes"/>
+      <point x="0" y="508" type="line" smooth="yes"/>
+      <point x="0" y="522"/>
+      <point x="19" y="542"/>
+      <point x="33" y="542" type="qcurve" smooth="yes"/>
+      <point x="113" y="542" type="line" smooth="yes"/>
+      <point x="127" y="542"/>
+      <point x="146" y="522"/>
+      <point x="146" y="508" type="qcurve" smooth="yes"/>
+      <point x="146" y="277" type="line"/>
+      <point x="79" y="277" type="line"/>
+      <point x="79" y="475" type="line"/>
+      <point x="67" y="475" type="line"/>
+      <point x="67" y="67" type="line"/>
+      <point x="79" y="67" type="line"/>
+      <point x="79" y="265" type="line"/>
+      <point x="186" y="265" type="line"/>
+      <point x="186" y="198" type="line"/>
+      <point x="146" y="198" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="700" type="line"/>
+      <point x="67" y="700" type="line"/>
+      <point x="67" y="621" type="line"/>
+      <point x="79" y="621" type="line"/>
+      <point x="79" y="700" type="line"/>
+      <point x="146" y="700" type="line"/>
+      <point x="146" y="588" type="line" smooth="yes"/>
+      <point x="146" y="574"/>
+      <point x="127" y="554"/>
+      <point x="113" y="554" type="qcurve" smooth="yes"/>
+      <point x="33" y="554" type="line" smooth="yes"/>
+      <point x="19" y="554"/>
+      <point x="0" y="574"/>
+      <point x="0" y="588" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

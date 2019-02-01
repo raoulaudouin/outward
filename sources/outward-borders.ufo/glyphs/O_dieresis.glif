@@ -1,0 +1,8 @@
+<glyph name="Odieresis" format="2">
+  <advance width="158"/>
+  <unicode hex="00D6"/>
+  <outline>
+    <component base="dieresis"/>
+    <component base="o"/>
+  </outline>
+</glyph>

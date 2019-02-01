@@ -1,0 +1,34 @@
+<glyph name="K" format="2">
+  <advance width="158"/>
+  <unicode hex="004B"/>
+  <outline>
+    <contour>
+      <point x="67" y="0" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="0" y="277" type="line"/>
+      <point x="0" y="344" type="line"/>
+      <point x="0" y="356" type="line"/>
+      <point x="0" y="423" type="line"/>
+      <point x="0" y="700" type="line"/>
+      <point x="67" y="700" type="line"/>
+      <point x="67" y="423" type="line"/>
+      <point x="79" y="423" type="line"/>
+      <point x="79" y="700" type="line"/>
+      <point x="146" y="700" type="line"/>
+      <point x="146" y="390" type="line" smooth="yes"/>
+      <point x="146" y="376"/>
+      <point x="127" y="356"/>
+      <point x="113" y="356" type="qcurve" smooth="yes"/>
+      <point x="67" y="356" type="line"/>
+      <point x="67" y="344" type="line"/>
+      <point x="113" y="344" type="line" smooth="yes"/>
+      <point x="127" y="344"/>
+      <point x="146" y="324"/>
+      <point x="146" y="310" type="qcurve" smooth="yes"/>
+      <point x="146" y="0" type="line"/>
+      <point x="79" y="0" type="line"/>
+      <point x="79" y="277" type="line"/>
+      <point x="67" y="277" type="line"/>
+    </contour>
+  </outline>
+</glyph>

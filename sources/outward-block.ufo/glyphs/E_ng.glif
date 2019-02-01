@@ -1,0 +1,24 @@
+<glyph name="Eng" format="2">
+  <advance width="158"/>
+  <unicode hex="014A"/>
+  <outline>
+    <contour>
+      <point x="113" y="-79" type="qcurve" smooth="yes"/>
+      <point x="40" y="-79" type="line"/>
+      <point x="40" y="-12" type="line"/>
+      <point x="79" y="-12" type="line"/>
+      <point x="79" y="633" type="line"/>
+      <point x="67" y="633" type="line"/>
+      <point x="67" y="0" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="0" y="700" type="line"/>
+      <point x="113" y="700" type="line" smooth="yes"/>
+      <point x="127" y="700"/>
+      <point x="146" y="680"/>
+      <point x="146" y="666" type="qcurve" smooth="yes"/>
+      <point x="146" y="-45" type="line" smooth="yes"/>
+      <point x="146" y="-59"/>
+      <point x="127" y="-79"/>
+    </contour>
+  </outline>
+</glyph>

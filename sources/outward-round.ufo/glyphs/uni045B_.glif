@@ -1,0 +1,7 @@
+<glyph name="uni045B" format="2">
+  <advance width="198"/>
+  <unicode hex="045B"/>
+  <outline>
+    <component base="hbar"/>
+  </outline>
+</glyph>

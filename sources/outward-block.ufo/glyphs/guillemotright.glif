@@ -1,0 +1,38 @@
+<glyph name="guillemotright" format="2">
+  <advance width="237"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="0" y="226" type="line"/>
+      <point x="39" y="226" type="line"/>
+      <point x="39" y="317" type="line"/>
+      <point x="0" y="317" type="line"/>
+      <point x="0" y="384" type="line"/>
+      <point x="73" y="384" type="line" smooth="yes"/>
+      <point x="87" y="384"/>
+      <point x="106" y="364"/>
+      <point x="106" y="350" type="qcurve" smooth="yes"/>
+      <point x="106" y="192" type="line" smooth="yes"/>
+      <point x="106" y="178"/>
+      <point x="87" y="159"/>
+      <point x="73" y="159" type="qcurve" smooth="yes"/>
+      <point x="0" y="159" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="226" type="line"/>
+      <point x="158" y="226" type="line"/>
+      <point x="158" y="317" type="line"/>
+      <point x="118" y="317" type="line"/>
+      <point x="118" y="384" type="line"/>
+      <point x="192" y="384" type="line" smooth="yes"/>
+      <point x="206" y="384"/>
+      <point x="225" y="364"/>
+      <point x="225" y="350" type="qcurve" smooth="yes"/>
+      <point x="225" y="192" type="line" smooth="yes"/>
+      <point x="225" y="178"/>
+      <point x="206" y="159"/>
+      <point x="192" y="159" type="qcurve" smooth="yes"/>
+      <point x="118" y="159" type="line"/>
+    </contour>
+  </outline>
+</glyph>

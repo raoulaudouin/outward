@@ -1,0 +1,23 @@
+<glyph name="iogonek" format="2">
+  <advance width="79"/>
+  <unicode hex="012F"/>
+  <outline>
+    <contour>
+      <point x="-26" y="-79" type="line" smooth="yes"/>
+      <point x="-40" y="-79"/>
+      <point x="-54" y="-60"/>
+      <point x="-51" y="-46" type="qcurve" smooth="yes"/>
+      <point x="91" y="542" type="line"/>
+      <point x="158" y="542" type="line"/>
+      <point x="24" y="-12" type="line"/>
+      <point x="63" y="-12" type="line"/>
+      <point x="46" y="-79" type="line"/>
+    </contour>
+    <contour>
+      <point x="161" y="554" type="line"/>
+      <point x="94" y="554" type="line"/>
+      <point x="129" y="700" type="line"/>
+      <point x="196" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

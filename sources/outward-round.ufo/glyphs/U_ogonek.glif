@@ -1,0 +1,32 @@
+<glyph name="Uogonek" format="2">
+  <advance width="158"/>
+  <unicode hex="0172"/>
+  <outline>
+    <contour>
+      <point x="-7" y="0" type="line"/>
+      <point x="-21" y="0"/>
+      <point x="-35" y="19"/>
+      <point x="-32" y="33" type="qcurve" smooth="yes"/>
+      <point x="129" y="700" type="line"/>
+      <point x="196" y="700" type="line"/>
+      <point x="43" y="67" type="line"/>
+      <point x="55" y="67" type="line"/>
+      <point x="208" y="700" type="line"/>
+      <point x="275" y="700" type="line"/>
+      <point x="113" y="33" type="line" smooth="yes"/>
+      <point x="110" y="19"/>
+      <point x="87" y="0"/>
+      <point x="73" y="0" type="qcurve" smooth="yes"/>
+      <point x="67" y="0" type="line"/>
+      <point x="64" y="-12" type="line"/>
+      <point x="103" y="-12" type="line"/>
+      <point x="86" y="-79" type="line"/>
+      <point x="13" y="-79" type="line" smooth="yes"/>
+      <point x="0" y="-79"/>
+      <point x="-14" y="-60"/>
+      <point x="-11" y="-46" type="qcurve" smooth="yes"/>
+      <point x="0" y="0" type="line"/>
+      <point x="-7" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

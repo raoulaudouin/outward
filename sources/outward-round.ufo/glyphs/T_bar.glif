@@ -1,0 +1,34 @@
+<glyph name="Tbar" format="2">
+  <advance width="237"/>
+  <unicode hex="0166"/>
+  <outline>
+    <contour>
+      <point x="106" y="0" type="line"/>
+      <point x="39" y="0" type="line"/>
+      <point x="115" y="316" type="line"/>
+      <point x="36" y="316" type="line"/>
+      <point x="52" y="383" type="line"/>
+      <point x="131" y="383" type="line"/>
+      <point x="192" y="633" type="line"/>
+      <point x="180" y="633" type="line"/>
+      <point x="122" y="396" type="line"/>
+      <point x="55" y="396" type="line"/>
+      <point x="121" y="666" type="line" smooth="yes"/>
+      <point x="124" y="680"/>
+      <point x="148" y="700"/>
+      <point x="162" y="700" type="qcurve" smooth="yes"/>
+      <point x="321" y="700" type="line" smooth="yes"/>
+      <point x="335" y="700"/>
+      <point x="349" y="680"/>
+      <point x="346" y="666" type="qcurve" smooth="yes"/>
+      <point x="280" y="396" type="line"/>
+      <point x="213" y="396" type="line"/>
+      <point x="271" y="633" type="line"/>
+      <point x="259" y="633" type="line"/>
+      <point x="198" y="383" type="line"/>
+      <point x="277" y="383" type="line"/>
+      <point x="261" y="316" type="line"/>
+      <point x="182" y="316" type="line"/>
+    </contour>
+  </outline>
+</glyph>

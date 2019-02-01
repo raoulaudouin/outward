@@ -1,0 +1,27 @@
+<glyph name="greater" format="2">
+  <advance width="198"/>
+  <unicode hex="003E"/>
+  <outline>
+    <contour>
+      <point x="73" y="383" type="line" smooth="yes"/>
+      <point x="79.5" y="383.0" name="inserted"/>
+      <point x="91.5" y="378.5"/>
+      <point x="97" y="374" type="qcurve"/>
+      <point x="176" y="295" type="line" smooth="yes"/>
+      <point x="186" y="284"/>
+      <point x="186" y="257"/>
+      <point x="176" y="247" type="qcurve" smooth="yes"/>
+      <point x="97" y="168" type="line"/>
+      <point x="91.0" y="163.0" name="inserted"/>
+      <point x="79.0" y="158.0"/>
+      <point x="73" y="158" type="qcurve" smooth="yes"/>
+      <point x="0" y="158" type="line"/>
+      <point x="0" y="225" type="line"/>
+      <point x="59" y="225" type="line"/>
+      <point x="105" y="271" type="line"/>
+      <point x="59" y="316" type="line"/>
+      <point x="0" y="316" type="line"/>
+      <point x="0" y="383" type="line"/>
+    </contour>
+  </outline>
+</glyph>

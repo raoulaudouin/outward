@@ -1,0 +1,22 @@
+<glyph name="uni0491" format="2">
+  <advance width="158"/>
+  <unicode hex="0491"/>
+  <outline>
+    <contour>
+      <point x="27" y="0" type="line"/>
+      <point x="-40" y="0" type="line"/>
+      <point x="82" y="508" type="line" smooth="yes"/>
+      <point x="86" y="522"/>
+      <point x="110" y="542"/>
+      <point x="124" y="542" type="qcurve" smooth="yes"/>
+      <point x="170" y="542" type="line"/>
+      <point x="179" y="581" type="line"/>
+      <point x="246" y="581" type="line"/>
+      <point x="228" y="508" type="line" smooth="yes"/>
+      <point x="225" y="494"/>
+      <point x="201" y="475"/>
+      <point x="187" y="475" type="qcurve" smooth="yes"/>
+      <point x="141" y="475" type="line"/>
+    </contour>
+  </outline>
+</glyph>

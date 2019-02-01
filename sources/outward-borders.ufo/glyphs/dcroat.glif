@@ -1,0 +1,7 @@
+<glyph name="dcroat" format="2">
+  <advance width="198"/>
+  <unicode hex="0111"/>
+  <outline>
+    <component base="eth"/>
+  </outline>
+</glyph>

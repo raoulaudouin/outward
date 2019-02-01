@@ -1,0 +1,26 @@
+<glyph name="W" format="2">
+  <advance width="237"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="192" y="34" type="line" smooth="yes"/>
+      <point x="188" y="20"/>
+      <point x="165" y="0"/>
+      <point x="151" y="0" type="qcurve" smooth="yes"/>
+      <point x="-7" y="0" type="line" smooth="yes"/>
+      <point x="-21" y="0"/>
+      <point x="-36" y="20"/>
+      <point x="-32" y="34" type="qcurve" smooth="yes"/>
+      <point x="128" y="700" type="line"/>
+      <point x="195" y="700" type="line"/>
+      <point x="42" y="67" type="line"/>
+      <point x="54" y="67" type="line"/>
+      <point x="207" y="700" type="line"/>
+      <point x="274" y="700" type="line"/>
+      <point x="121" y="67" type="line"/>
+      <point x="133" y="67" type="line"/>
+      <point x="286" y="700" type="line"/>
+      <point x="353" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

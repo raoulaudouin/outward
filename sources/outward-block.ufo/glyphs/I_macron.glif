@@ -1,0 +1,36 @@
+<glyph name="Imacron" format="2">
+  <advance width="237"/>
+  <unicode hex="012A"/>
+  <outline>
+    <contour>
+      <point x="225" y="0" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="0" y="305" type="line"/>
+      <point x="67" y="305" type="line"/>
+      <point x="67" y="67" type="line"/>
+      <point x="79" y="67" type="line"/>
+      <point x="79" y="554" type="line"/>
+      <point x="67" y="554" type="line"/>
+      <point x="67" y="317" type="line"/>
+      <point x="0" y="317" type="line"/>
+      <point x="0" y="621" type="line"/>
+      <point x="225" y="621" type="line"/>
+      <point x="225" y="317" type="line"/>
+      <point x="158" y="317" type="line"/>
+      <point x="158" y="554" type="line"/>
+      <point x="146" y="554" type="line"/>
+      <point x="146" y="67" type="line"/>
+      <point x="158" y="67" type="line"/>
+      <point x="158" y="305" type="line"/>
+      <point x="225" y="305" type="line"/>
+      <point x="225" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="186" y="633" type="line"/>
+      <point x="40" y="633" type="line"/>
+      <point x="40" y="700" type="line"/>
+      <point x="186" y="700" type="line"/>
+      <point x="186" y="633" type="line"/>
+    </contour>
+  </outline>
+</glyph>

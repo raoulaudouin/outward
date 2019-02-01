@@ -1,0 +1,17 @@
+<glyph name="quoteright" format="2">
+  <advance width="118"/>
+  <unicode hex="2019"/>
+  <outline>
+    <contour>
+      <point x="168" y="700" type="line"/>
+      <point x="235" y="700" type="line"/>
+      <point x="208" y="587" type="line" smooth="yes"/>
+      <point x="204" y="573"/>
+      <point x="181" y="554"/>
+      <point x="167" y="554" type="qcurve" smooth="yes"/>
+      <point x="94" y="554" type="line"/>
+      <point x="110" y="621" type="line"/>
+      <point x="149" y="621" type="line"/>
+    </contour>
+  </outline>
+</glyph>

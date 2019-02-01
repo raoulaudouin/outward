@@ -1,0 +1,8 @@
+<glyph name="Scaron" format="2">
+  <advance width="158"/>
+  <unicode hex="0160"/>
+  <outline>
+    <component base="caron"/>
+    <component base="s"/>
+  </outline>
+</glyph>

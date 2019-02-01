@@ -1,0 +1,36 @@
+<glyph name="Zdotaccent" format="2">
+  <advance width="158"/>
+  <unicode hex="017B"/>
+  <outline>
+    <contour>
+      <point x="146" y="0" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="0" y="231" type="line" smooth="yes"/>
+      <point x="0.0" y="238.5" name="inserted"/>
+      <point x="5.0" y="250.5"/>
+      <point x="10" y="255" type="qcurve"/>
+      <point x="79" y="324" type="line"/>
+      <point x="79" y="475" type="line"/>
+      <point x="67" y="475" type="line"/>
+      <point x="67" y="356" type="line"/>
+      <point x="0" y="356" type="line"/>
+      <point x="0" y="542" type="line"/>
+      <point x="146" y="542" type="line"/>
+      <point x="146" y="310" type="line" smooth="yes"/>
+      <point x="146.0" y="303.0" name="inserted"/>
+      <point x="141.0" y="291.5"/>
+      <point x="136" y="287" type="qcurve"/>
+      <point x="67" y="217" type="line"/>
+      <point x="67" y="67" type="line"/>
+      <point x="79" y="67" type="line"/>
+      <point x="79" y="186" type="line"/>
+      <point x="146" y="186" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="700" type="line"/>
+      <point x="107" y="700" type="line"/>
+      <point x="107" y="554" type="line"/>
+      <point x="40" y="554" type="line"/>
+    </contour>
+  </outline>
+</glyph>

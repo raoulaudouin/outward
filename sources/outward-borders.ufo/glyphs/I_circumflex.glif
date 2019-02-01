@@ -1,0 +1,98 @@
+<glyph name="Icircumflex" format="2">
+  <advance width="237"/>
+  <unicode hex="00CE"/>
+  <outline>
+    <contour>
+      <point x="12" y="530" type="line"/>
+      <point x="12" y="289" type="line"/>
+      <point x="55" y="289" type="line"/>
+      <point x="55" y="487" type="line"/>
+      <point x="91" y="487" type="line"/>
+      <point x="91" y="55" type="line"/>
+      <point x="55" y="55" type="line"/>
+      <point x="55" y="253" type="line"/>
+      <point x="12" y="253" type="line"/>
+      <point x="12" y="12" type="line"/>
+      <point x="213" y="12" type="line"/>
+      <point x="213" y="253" type="line"/>
+      <point x="170" y="253" type="line"/>
+      <point x="170" y="55" type="line"/>
+      <point x="134" y="55" type="line"/>
+      <point x="134" y="487" type="line"/>
+      <point x="170" y="487" type="line"/>
+      <point x="170" y="289" type="line"/>
+      <point x="213" y="289" type="line"/>
+      <point x="213" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="225" y="277" type="line"/>
+      <point x="158" y="277" type="line"/>
+      <point x="158" y="475" type="line"/>
+      <point x="146" y="475" type="line"/>
+      <point x="146" y="67" type="line"/>
+      <point x="158" y="67" type="line"/>
+      <point x="158" y="265" type="line"/>
+      <point x="225" y="265" type="line"/>
+      <point x="225" y="0" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="0" y="265" type="line"/>
+      <point x="67" y="265" type="line"/>
+      <point x="67" y="67" type="line"/>
+      <point x="79" y="67" type="line"/>
+      <point x="79" y="475" type="line"/>
+      <point x="67" y="475" type="line"/>
+      <point x="67" y="277" type="line"/>
+      <point x="0" y="277" type="line"/>
+      <point x="0" y="542" type="line"/>
+      <point x="225" y="542" type="line"/>
+    </contour>
+    <contour>
+      <point x="175" y="651" type="line" smooth="yes"/>
+      <point x="180.0" y="646.0" name="inserted"/>
+      <point x="185.0" y="634.0"/>
+      <point x="185" y="627" type="qcurve" smooth="yes"/>
+      <point x="185" y="554" type="line"/>
+      <point x="118" y="554" type="line"/>
+      <point x="118" y="613" type="line"/>
+      <point x="112" y="619" type="line"/>
+      <point x="106" y="613" type="line"/>
+      <point x="106" y="554" type="line"/>
+      <point x="39" y="554" type="line"/>
+      <point x="39" y="627" type="line" smooth="yes"/>
+      <point x="39.0" y="633.0" name="inserted"/>
+      <point x="44.0" y="645.0"/>
+      <point x="49" y="651" type="qcurve"/>
+      <point x="88" y="690" type="line" smooth="yes"/>
+      <point x="93.0" y="695.0" name="inserted"/>
+      <point x="105.0" y="700.0"/>
+      <point x="112" y="700" type="qcurve" smooth="yes"/>
+      <point x="119.0" y="700.0" name="inserted"/>
+      <point x="131.0" y="695.0"/>
+      <point x="136" y="690" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="173" y="627" type="line" smooth="yes"/>
+      <point x="173.0" y="631.5" name="inserted"/>
+      <point x="170.0" y="639.0"/>
+      <point x="167" y="642" type="qcurve" smooth="yes"/>
+      <point x="127" y="682" type="line" smooth="yes"/>
+      <point x="124.0" y="685.0" name="inserted"/>
+      <point x="116.5" y="688.0"/>
+      <point x="112" y="688" type="qcurve" smooth="yes"/>
+      <point x="107.5" y="688.0" name="inserted"/>
+      <point x="100.0" y="685.0"/>
+      <point x="97" y="682" type="qcurve" smooth="yes"/>
+      <point x="57" y="642" type="line" smooth="yes"/>
+      <point x="54.0" y="639.0" name="inserted"/>
+      <point x="51.0" y="631.5"/>
+      <point x="51" y="627" type="qcurve" smooth="yes"/>
+      <point x="51" y="566" type="line"/>
+      <point x="94" y="566" type="line"/>
+      <point x="94" y="618" type="line"/>
+      <point x="112" y="636" type="line"/>
+      <point x="130" y="618" type="line"/>
+      <point x="130" y="566" type="line"/>
+      <point x="173" y="566" type="line"/>
+    </contour>
+  </outline>
+</glyph>
